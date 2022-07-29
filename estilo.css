@@ -2,3 +2,12 @@ body{
 background: #A445;
 }
 h1 {text-align: center;}
+.caixal{
+  position: absolute;
+  background:yellow;
+  color: black;
+  width: 200px;
+  height:200px;
+  right: 0;
+  top: 30%;
+}
