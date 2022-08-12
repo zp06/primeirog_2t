@@ -40,3 +40,23 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 li a:hover {
   background: blue;
 }
+#malaca {
+  width: auto;
+}
+
+.caixamalaca {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 90%;
+  height: 200px;
+  background: rgb(255, 18, 1);
+  margin: 45px;
+  border-color: black;
+  border-width: 20px;
+  border-style: solid;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+
+}
